@@ -1,17 +1,65 @@
 {
-    "PersonalInfo":{
-
-    "Avatar":"https://media-exp1.licdn.com/dms/image/C5603AQG0TKuSy5ltgA/profile-displayphoto-shrink_800_800/0/1621527199180?e=1656547200&v=beta&t=lq4Ak9WctoswqhYGxy_x13CYnYwZ1O7pjES29lmmOj8",
-    "BackgroundImage": "https://images.unsplash.com/photo-1608306448197-e83633f1261c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
-    "FirstName":"Bhuvan",
-    "LastName":"U Kadlas"
+    "PersonalInfo": {
+      "Avatar": "https://i.imgur.com/fFYP6zLh.png",
+      "BackgroundImage": "https://i.imgur.com/LR7YXjjh.png",
+      "FirstName": "Bhuvan",
+      "LastName": "U Kadlas"
     },
-    "SocialNetworks":{
-        "Twitter": null,
-        "Facebook": null,
-        "LinkedIn": null,
-        "Instagram": null,
-        "GitHub": null
+    "SocialNetworks": {
+      "LinkedIn": "https://www.linkedin.com/in/bhuvan-u-kadlas-524b3810b/",
+      "Twitter": "https://twitter.com/BKadlas",
+      "GitHub": "https://github.com/bhuvan2002",
+      "Instagram": "https://instagr.am/",
+      "Facebook": "https://www.facebook.com/profile.php?id=100069645639974"
+    },
+    "Roles": ["Developer", "Student", "Problem Solver", "Gamer", "Rider"],
+    "About": {
+      "Desc": "GSSoC '22, Full Stack Developer, Hackathon Hunter, Innovator, Learning React JS, FullStack JS Developer,  Cloud Computing Enthusiast",
+      "Designation": "Second Year Student with Full Stack Web Developer",
+      "DesigDesc": "Working with JavaScript specifically React JS & Node JS and creating awesome content on YouTube.",
+      "Details": [
+        {
+          "Birthday": "19 April 2002",
+          "Website": "praveen.science",
+          "Phone": "9353833178",
+          "City": "Mysore, Karnataka, India"
+        },
+        {
+          "Education": "Bachelor of Computer Science and Engineering",
+          "Work": "Student",
+          "Email": "bhuvanumesh123@gmail.com",
+          "Freelance": "Available"
+        }
+      ],
+      "AboutDesc": "People call me Bhuvan.  vegetarian, and an experimental chef. Well, I would like to experiment as much as I can, on food and my life. My body is made up of HTML & CSS, which is literally me! This defines me as a Full Stack Web Developer (Front End, Back End, Middleware, Whatever...).",
+      "Facts": {
+        "Desc": "I have been doing a lot of work these days.",
+        "Counters": [
+          {
+            "Icon": "archive",
+            "Value": 10,
+            "Title": "Projects",
+            "Desc": "Completed"
+          },
+          {
+            "Icon": "headset",
+            "Value": 0,
+            "Title": "Clients",
+            "Desc": "Called"
+          },
+          {
+            "Icon": "file-check",
+            "Value": 0,
+            "Title": "Offers",
+            "Desc": "Received"
+          },
+          {
+            "Icon": "code-square",
+            "Value": 200,
+            "Title": "Hours",
+            "Desc": "Coded"
+          }
+        ]
+      }
     }
-    
-}
+  }
