@@ -1,0 +1,17 @@
+{
+    "PersonalInfo":{
+
+    "Avatar":"https://media-exp1.licdn.com/dms/image/C5603AQG0TKuSy5ltgA/profile-displayphoto-shrink_800_800/0/1621527199180?e=1656547200&v=beta&t=lq4Ak9WctoswqhYGxy_x13CYnYwZ1O7pjES29lmmOj8",
+    "BackgroundImage": "https://images.unsplash.com/photo-1608306448197-e83633f1261c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+    "FirstName":"Bhuvan",
+    "LastName":"U Kadlas"
+    },
+    "SocialNetworks":{
+        "Twitter": null,
+        "Facebook": null,
+        "LinkedIn": null,
+        "Instagram": null,
+        "GitHub": null
+    }
+    
+}
