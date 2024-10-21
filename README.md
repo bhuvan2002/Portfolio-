@@ -39,8 +39,8 @@ I graduated with a degree in Computer Science in 2024 and have since focused on 
 
 Feel free to reach out to me:
 
-- **Email:** your-email@example.com
+- **Email:** bhuvanumesh123@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **GitHub:** [Your GitHub Profile](https://github.com/bhuvan2002)
 
 Thank you for visiting my portfolio!
